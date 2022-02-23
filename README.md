@@ -1,7 +1,6 @@
 # PRODUCT CATALOG APP
 
-> A simple product catalog app that returns a couple of mobile phones like iPhone 7, Samsung Galaxy S7 etc. with
-> some simple attributes like product image, title, price, description and color
+> A simple product catalog app that returns a couple of mobile phones like iPhone 7, Samsung Galaxy S7 etc. with some simple attributes like product image, title, price, description and color
 
 ## Technologies Used and Requirements
 
@@ -15,13 +14,14 @@
 
 #### FRONTEND REPO LINK
 
+- [Frontend Repo Link](https://github.com/bimbolabuari/product-catalog-frontend)
+
 ## Development (Running locally)
 
 - Clone the project
 
 ```bash
 git clone https://github.com/bimbolabuari/product-catalog.git
-
 ```
 
 - Install Dependencies
@@ -49,11 +49,9 @@ bundle exec rails db:setup
 rails server
 ```
 
-## Running with the deployed version
+## API deployed demo host url
 
-### API deployed demo host url
-
-- [API Host]()
+- [API Host](https://product-catalog.herokuapp.com/phones)
 
 ## Model Validation
 
